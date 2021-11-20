@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Hoppeborgsmøde",
+      "day": "Feb 8th at 5:00pm",
+      "reminder": true
+    },
+    {
+      "text": "New Danger Task",
+      "day": "Feb 7th at 12:30pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
