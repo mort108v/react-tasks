@@ -10,7 +10,13 @@
       "id": 3,
       "text": "Hoppeborgsmøde",
       "day": "Feb 8th at 5:00pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Dangerous Task",
+      "day": "Dec 12th @ 09.30am",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
