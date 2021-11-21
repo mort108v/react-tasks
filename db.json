@@ -11,12 +11,6 @@
       "text": "Hoppeborgsmøde",
       "day": "Feb 8th at 5:00pm",
       "reminder": false
-    },
-    {
-      "text": "New Danger Task",
-      "day": "Feb 7th at 12:30pm",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
